@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+
+    
+.box {
+    background-color: #fff;
+    height: fit-content;
+    width: fit-content;
+
+    padding: 50px;
+    border-radius: 60px 10px 60px 10px;
+    box-shadow: 5px 5px 5px rgb(77, 22, 205);
+
+}
+
+.heading {
+    color: #1999d0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button {
+
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 18px;
+    border-radius: 5px;
+    margin: 15px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+body {
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+
+
+    
+
+     justify-content: center;
+
+
+    align-items: center; 
+
+    display: flex;
+
+}
